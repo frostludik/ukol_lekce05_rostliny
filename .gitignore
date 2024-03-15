@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 !**/*.iml
 !**/.idea/**
+!*.iml
 
 ### Eclipse ###
 .apt_generated
@@ -31,3 +32,4 @@ bin/
 .DS_Store
 /.idea/
 /.idea/
+/ukol_lekce05_rostliny.iml
